@@ -1,0 +1,74 @@
+{
+    "opiskelija":[
+        {
+            "id":1,
+            "nimi":"Opiskelija Opiskelijanen",
+            "opiskelijanumero":"123",
+            "osoite":"Opiskelijakatu 3",
+            "aloitusvuosi":"2022"
+        },
+        {
+            "id":2,
+            "nimi":"Oppilas Oppilainen",
+            "opiskelijanumero":"124",
+            "osoite":"Oppilaskatu 5",
+            "aloitusvuosi":"2022"
+        },
+        {
+            "id":3,
+            "nimi":"Testi Testinen",
+            "opiskelijanumero":"125",
+            "osoite":"Testikatu 3",
+            "aloitusvuosi":"2022"
+        },
+        {
+            "id":4,
+            "nimi":"Testaaja Testaus",
+            "opiskelijanumero":"126",
+            "osoite":"Testikatu 15",
+            "aloitusvuosi":"2022"
+        },
+        {
+            "id":5,
+            "nimi":"Pulpetti Pulpettinen",
+            "opiskelijanumero":"127",
+            "osoite":"Pulpetinpohja 4",
+            "aloitusvuosi":"2022"
+        },
+        {
+            "id":6,
+            "nimi":"Kynä Kuminen",
+            "opiskelijanumero":"128",
+            "osoite":"Kynänkärki 1",
+            "aloitusvuosi":"2022"
+        },
+        {
+            "id":7,
+            "nimi":"Kumi Kynänen",
+            "opiskelijanumero":"129",
+            "osoite":"Kuminsivu 3",
+            "aloitusvuosi":"2022"
+        },
+        {
+            "id":8,
+            "nimi":"Lasku Laskinen",
+            "opiskelijanumero":"130",
+            "osoite":"Laskukatu 5",
+            "aloitusvuosi":"2022"
+        },
+        {
+            "id":9,
+            "nimi":"Kirja Kirjanen",
+            "opiskelijanumero":"131",
+            "osoite":"Kirjakatu 2",
+            "aloitusvuosi":"2022"
+        },
+        {
+            "id":10,
+            "nimi":"Vihko Vihkonen",
+            "opiskelijanumero":"132",
+            "osoite":"Vihkokatu 18",
+            "aloitusvuosi":"2022"
+        }
+    ]
+}
